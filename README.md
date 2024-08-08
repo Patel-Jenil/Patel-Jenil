@@ -10,13 +10,13 @@
 
 - 📫 How to reach me **jenilpatel58@gmail.com**
 
-[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patel-Jenil&theme=tokyonight)](https://github.com/Patel-Jenil/)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Patel-Jenil&theme=transparent)](https://github.com/Patel-Jenil/)
 
 [![Snake](https://github.com/Patel-Jenil/Patel-Jenil/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)](https://github.com/Patel-Jenil/)
 
 ## 🌐 Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jenil.patel.12532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patel_jenil_g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-jenil-g/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jenil.patel.12532) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patel_jenil_g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-jenil-g/) [![Resume](https://img.shields.io/badge/Resume-8A2BE2?logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/11dvF5FrFYzXiKYCE04UO1DkYNvtFzCN-/view?usp=sharing)
 
 ## 👨🏻‍💻 Coding Profiles
 
